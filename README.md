@@ -4,5 +4,5 @@ Repositorio academico con el fin de trackear los talleres que se iran realizando
 
 # Integrantes
 Dilan Esteban Rey Sepulveda - 2190397
-Sergio Baron 
+Sergio Hernando Barón Rivera - 2201885
 
