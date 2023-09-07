@@ -22,6 +22,6 @@ En este proyecto se van a construir las siguientes compuertas:
 </ul>
 
 Para el desarrollo del proyecto se utiliza el software de Nand to Tetris que se descarga desde la página oficial, se extrae en una carpeta y se accede a nand2tetris/projects/01 donde se encuentran todos los archivos necesarios para el desarrollo del proyecto.
-Las únicas compuertas que se pueden utilizar son las Nand primitivas y las compuertas que se vayan utilizando además pueden ser implementadas en más de una forma, pero siempre hay que buscar la construcción más sencilla y con menos partes posibles.
+Las únicas compuertas que se pueden utilizar son las Nand primitivas y las compuertas que se vayan utilizando, además, pueden ser implementadas en más de una forma, pero siempre hay que buscar la construcción más sencilla y con menos partes posibles.
 
 
