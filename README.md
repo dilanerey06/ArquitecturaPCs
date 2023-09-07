@@ -25,7 +25,7 @@ Dilan Esteban Rey Sepulveda, Tecnico en sistemas y actualmente estudiante de sep
 </p>
 </br>
 
-Bibliografia
+Sergio Hernando Barón Rivera, estudiante de ingeniería en sistemas de séptimo semestre en la universidad industrial de Santander, entusiasta de la ingeniería de software, desarrollo web y dem automovilismo 
 
 <h4>Enlaces de interes:</h4>
 <ul>
