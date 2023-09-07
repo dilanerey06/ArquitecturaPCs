@@ -1,5 +1,5 @@
 # Objetivo 
-En este proyecto se va a construir las siguientes compuertas:
+En este proyecto se van a construir las siguientes compuertas:
 
 
 Nand
