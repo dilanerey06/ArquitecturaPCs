@@ -5,8 +5,8 @@ Repositorio academico con el fin de trackear los talleres que se iran realizando
 # Integrantes
 <h3>Dilan Esteban Rey Sepulveda - 2190397</h3>
 </br>
-<p align="center" alt="dilan rey foto">
-  <img src="/img/foto.jpg" />
+<p align="center">
+  <img src="/img/foto.jpg"  alt="dilan rey foto"/>
 </p>
 </br>
 
@@ -20,8 +20,8 @@ Dilan Esteban Rey Sepulveda, Tecnico en sistemas y actualmente estudiante de sep
 
 <h3>Sergio Hernando Barón Rivera - 2201885</h3>
 </br>
-<p align="center" alt="sergio baron foto">
-  <img src="/img/descarga (1).jpg" />
+<p align="center" >
+  <img src="/img/descarga (1).jpg" alt="sergio baron foto"/>
 </p>
 </br>
 
