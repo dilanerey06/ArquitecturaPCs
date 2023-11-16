@@ -15,14 +15,14 @@ código generado por su ensamblador al código generado por el ensamblador sumin
 desea ejecutar el código traducido e inspeccionar su comportamiento, puede hacerlo usando la CPU
 emulador.
 
-<h3>Progrmas Test</h3>
+<h3>Programas Test</h3>
 
 <ul>
   <li>Add.asm: Adds the constants 2 and 3, and puts the result in R0.</li>
-  Max.asm: Computes max(R0, R1) and puts the result in R2.
-  Rect.asm: Draws a rectangle at the top left corner of the screen. The rectangle is 16 pixels wide,
-  and R0 pixels high. Before running this program, put a non-negative value in R0.
-  Pong.asm: A classical single-player arcade game. A ball bounces repeatedly off the screen’s "walls."
+  <li>Max.asm: Computes max(R0, R1) and puts the result in R2.</li>
+ <li> Rect.asm: Draws a rectangle at the top left corner of the screen. The rectangle is 16 pixels wide,
+  and R0 pixels high. Before running this program, put a non-negative value in R0.</li>
+  <li>Pong.asm: A classical single-player arcade game. A ball bounces repeatedly off the screen’s "walls."
   The player attempts to hit the ball with a paddle, by pressing the left and right arrow keys. For
   every successful hit, the player gains a point and the paddle shrinks a little, to make the game more
   challenging. If the player misses the ball, the game is over. To quit the game, press ESC. Note: The
@@ -32,5 +32,5 @@ emulador.
   lines of code, the executable Pong application is about 20,000 lines of binary code, most of which
   being the Jack operating system. Before running the code, select ‘No animation’ from the
   ‘Animation’ menu (meaning, no code highlighting). You can control the code’s execution speed
-  using the speed slider. The game will start after a few seconds, during which the OS initializes.
+  using the speed slider. The game will start after a few seconds, during which the OS initializes.</li>
 </ul>
