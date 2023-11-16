@@ -18,19 +18,19 @@ emulador.
 <h3>Programas Test</h3>
 
 <ul>
-  <li>Add.asm: Adds the constants 2 and 3, and puts the result in R0.</li>
-  <li>Max.asm: Computes max(R0, R1) and puts the result in R2.</li>
- <li> Rect.asm: Draws a rectangle at the top left corner of the screen. The rectangle is 16 pixels wide,
-  and R0 pixels high. Before running this program, put a non-negative value in R0.</li>
-  <li>Pong.asm: A classical single-player arcade game. A ball bounces repeatedly off the screen’s "walls."
-  The player attempts to hit the ball with a paddle, by pressing the left and right arrow keys. For
-  every successful hit, the player gains a point and the paddle shrinks a little, to make the game more
-  challenging. If the player misses the ball, the game is over. To quit the game, press ESC. Note: The
-  Pong program was developed using tools presented in Part II of the course and the book. In
-  particular, the game software was written in the high-level Jack language, and translated into the
-  given Pong.asm file by the Jack compiler. Although the high-level Pong program is only about 300
-  lines of code, the executable Pong application is about 20,000 lines of binary code, most of which
-  being the Jack operating system. Before running the code, select ‘No animation’ from the
-  ‘Animation’ menu (meaning, no code highlighting). You can control the code’s execution speed
-  using the speed slider. The game will start after a few seconds, during which the OS initializes.</li>
+  <li>Add.asm: suma las constantes 2 y 3 y coloca el resultado en R0.</li>
+  <li>Max.asm: Calcula max(R0, R1) y coloca el resultado en R2.</li>
+ <li> Rect.asm: Dibuja un rectángulo en la esquina superior izquierda de la pantalla. El rectángulo tiene 16 píxeles de ancho,
+  y R0 píxeles de alto. Antes de ejecutar este programa, ponga un valor no negativo en R0.</li>
+  <li>Pong.asm: un clásico juego arcade para un jugador. Una pelota rebota repetidamente en las "paredes" de la pantalla.
+  El jugador intenta golpear la pelota con una paleta presionando las teclas de flecha izquierda y derecha. Para
+  Cada golpe exitoso, el jugador gana un punto y la paleta se encoge un poco, para hacer el juego más
+  desafiante. Si el jugador falla el balón, el juego termina. Para salir del juego, presiona ESC. Nota la
+  El programa Pong se desarrolló utilizando las herramientas presentadas en la Parte II del curso y en el libro. En
+  En particular, el software del juego fue escrito en el lenguaje Jack de alto nivel y traducido al
+  proporcionado el archivo Pong.asm por el compilador Jack. Aunque el programa Pong de alto nivel tiene sólo unos 300
+  líneas de código, la aplicación Pong ejecutable tiene aproximadamente 20.000 líneas de código binario, la mayoría de las cuales
+  siendo el sistema operativo Jack. Antes de ejecutar el código, seleccione "Sin animación" en el menú
+  Menú 'Animación' (es decir, sin código resaltado). Puedes controlar la velocidad de ejecución del código.
+  usando el control deslizante de velocidad. El juego comenzará después de unos segundos, durante los cuales el sistema operativo se inicializará.</li>
 </ul>
